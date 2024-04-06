@@ -1,0 +1,21 @@
+"Club","Country","Goals","League","Mins","On Target Per Avg Match","Player Names","Year","annotation_id","annotator","created_at","game rating by season","id","lead_time","sentiment","updated_at","xG"
+"(PSG)","Spain",13,"La Liga",2877,1.02,"Pablo Sarabia",2018,1,"1","2024-04-06T16:56:46.684374Z","bad_season",21,24.594,"great","2024-04-06T16:56:46.684374Z",11.81
+"(SAP)","Brazil",9,"Campeonato Brasileiro SÃ©rie A",1222,1.79,"Hernanes ",2017,2,"1","2024-04-06T16:57:10.901150Z","bad_season",22,6.112,"average","2024-04-06T16:57:10.901150Z",5.27
+"(NEW)","England",14,"Premier League",2714,1.02,"Callum Wilson",2018,3,"1","2024-04-06T16:57:21.661569Z","bad_season",23,10.461,"average","2024-04-06T16:57:21.661569Z",14.57
+"(STP)","Germany",11,"Bundesliga",2447,0.97,"Guido Burgstaller",2017,19,"1","2024-04-06T17:02:30.876082Z","bad_season",24,7.23,"average","2024-04-06T17:02:35.527780Z",8.24
+"(LYO)","Brazil",10,"Campeonato Brasileiro SÃ©rie A",2962,1.28,"Lucas Paqueta",2018,18,"1","2024-04-06T17:02:15.216761Z","bad_season",25,4.459,"average","2024-04-06T17:02:17.231512Z",9.04
+"(LOK)","France",10,"France Ligue 17",2698,1.16,"Francois Kamano",2018,20,"1","2024-04-06T17:02:38.158168Z","bad_season",26,19.532999999999998,"","2024-04-06T17:03:05.776183Z",9.09
+"(TOR)","USA",9,"MLS",2247,1.06,"Alex Pozuelo",2020,11,"1","2024-04-06T17:00:22.350914Z","bad_season",27,9.387,"average","2024-04-06T17:00:22.350914Z",8.28
+"(PSG)","Italy",24,"Serie A",3188,1.55,"Mauro Icardi",2016,7,"1","2024-04-06T16:59:31.575158Z","bad_season",28,13.902,"great","2024-04-06T16:59:31.575158Z",19.13
+"(FRA)","Germany",12,"Bundesliga",1694,1.18,"Andre Silva",2019,10,"1","2024-04-06T17:00:19.139904Z","bad_season",29,2.711,"average","2024-04-06T17:00:19.139904Z",10.7
+"Bruno","Brazil",9,"Campeonato Brasileiro SÃ©rie A",2595,0.55,"Henrique ",2018,12,"1","2024-04-06T17:00:26.210791Z","bad_season",30,2.055,"average","2024-04-06T17:00:26.210791Z",4.37
+"(NAP)","Italy",17,"Serie A",2560,1.89,"Arkadiusz Milik",2018,8,"1","2024-04-06T17:00:10.978076Z","bad_season",31,1.346,"","2024-04-06T17:00:10.978076Z",12.4
+"(SCH)","Germany",14,"Bundesliga",2279,0.88,"Mark Uth",2017,9,"1","2024-04-06T17:00:14.014319Z","bad_season",32,4.356999999999999,"good","2024-04-06T17:00:14.014319Z",9.84
+"(NAP)","Italy",10,"Serie A",2191,1.6,"Lorenzo Insigne",2018,13,"1","2024-04-06T17:00:31.591078Z","bad_season",33,2.072,"average","2024-04-06T17:00:31.591078Z",9.23
+"(PSG)","France",9,"France Ligue 1",610,3.11,"Kylian Mbappe-Lottin",2020,14,"1","2024-04-06T17:00:36.082948Z","bad_season",34,3.103,"average","2024-04-06T17:00:36.082948Z",6.81
+"(LYO)","France",10,"France Ligue 19",2900,1.28,"Memphis Depay",2018,16,"1","2024-04-06T17:00:51.880391Z","bad_season",35,1.796,"","2024-04-06T17:00:51.880391Z",13.43
+"(CHE)","Germany",16,"Bundesliga",2582,1.43,"Timo Werner",2018,15,"1","2024-04-06T17:00:47.476587Z","bad_season",36,7.072,"good","2024-04-06T17:01:39.210913Z",15.49
+"(HUE)","Spain",14,"La Liga",2340,1.54,"Sandro Ramlrez",2016,17,"1","2024-04-06T17:01:59.800414Z","bad_season",37,4.746,"average","2024-04-06T17:02:01.937531Z",7.14
+"(FIO)","Italy",4,"Serie A",755,0.88,"Gaetano Castrovilli",2020,6,"1","2024-04-06T16:58:57.779428Z","bad_season",38,2.226,"average","2024-04-06T16:58:57.780428Z",1.43
+"(GET)","Spain",4,"La Liga",501,1.33,"Angel Rodriguez",2020,4,"1","2024-04-06T16:58:49.564004Z","bad_season",39,6.5120000000000005,"average","2024-04-06T16:58:49.564004Z",2.06
+"(STR)","France",4,"France Ligue 17",1008,0.75,"Ludovic Ajorque",2020,5,"1","2024-04-06T16:58:53.479091Z","bad_season",40,1.185,"","2024-04-06T16:58:53.480092Z",3.61

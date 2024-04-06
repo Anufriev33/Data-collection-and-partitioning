@@ -1,0 +1,661 @@
+Country,League,Club,Player Names,Mins,Goals,xG,On Target Per Avg Match,Year
+Spain,La Liga,(BET),Juanmi Callejon,1849,11,6.62,1.03,2016
+Spain,La Liga,(BAR),Antoine Griezmann,3129,16,11.86,1.24,2016
+Spain,La Liga,(ATL),Luis Suarez,2940,28,23.21,1.84,2016
+Spain,La Liga,(CAR),Ruben Castro,2842,13,14.06,1.4,2016
+Spain,La Liga,(VAL),Kevin Gameiro,1745,13,10.65,1.25,2016
+Spain,La Liga,(JUV),Cristiano Ronaldo,2634,25,24.68,2.16,2016
+Spain,La Liga,(RMA),Karim Benzema,1967,11,13.25,1.64,2016
+Spain,La Liga,(PSG),Neymar ,2694,13,13.33,1.48,2016
+Spain,La Liga,(CEL),Iago Aspas,2354,19,13.88,1.49,2016
+Spain,La Liga,(EIB),Sergi Enrich,2904,11,8.25,0.85,2016
+Spain,La Liga,,Aduriz ,2480,16,15.92,1.72,2016
+Spain,La Liga,(HUE),Sandro Ramlrez,2340,14,7.14,1.54,2016
+Spain,La Liga,(BAR),Lionel Messi,2910,37,26.65,2.48,2016
+Spain,La Liga,(VIL),Gerard Moreno,3361,13,8.49,0.9,2016
+Spain,La Liga,(JUV),Morata,1392,15,9.67,2.05,2016
+Spain,La Liga,(MON),Wissam Ben Yedder,1735,11,7.85,1.26,2016
+Spain,La Liga,(SOC),Willian Jose,2102,12,8.41,1.31,2016
+Spain,La Liga,Florin,Andone ,2984,12,11.62,1.34,2016
+Spain,La Liga,(SOC),Cedric Bakambu,1633,10,8.08,1.51,2016
+Spain,La Liga,(RMA),Isco,1690,10,3.91,0.84,2016
+Italy,Serie A,(LIV),Mohamed Salah,2567,15,11.62,1.85,2016
+Italy,Serie A,(SAS),Gregoire Defrel,2054,12,8.0,1.3,2016
+Italy,Serie A,(LAZ),Ciro Immobile,3294,22,19.76,2.83,2016
+Italy,Serie A,(VER),Nikola Kalinic,2648,15,15.05,2.19,2016
+Italy,Serie A,(NAP),Dries Mertens,2671,28,21.65,3.63,2016
+Italy,Serie A,(ATA),Alejandro Gomez,3247,16,11.62,2.19,2016
+Italy,Serie A,(FIO),Jose CallejOn,3276,14,11.38,1.65,2016
+Italy,Serie A,(BEN),Iago Falque,2633,12,8.04,1.52,2016
+Italy,Serie A,(CAG),Giovanni Simeone,2764,12,12.22,1.2,2016
+Italy,Serie A,(PSG),Mauro Icardi,3188,24,19.13,1.55,2016
+Italy,Serie A,(CRZ),Diego Falcinelli,3308,13,11.49,1.87,2016
+Italy,Serie A,Cyril,Cyril Thereau,2585,12,9.25,1.76,2016
+Italy,Serie A,(ROM),Edin Dzeko,3194,29,30.6,2.94,2016
+Italy,Serie A,(NAP),Lorenzo Insigne,3031,18,13.08,2.54,2016
+Italy,Serie A,(SAM),Fabio Quagliarella,3030,12,13.71,2.19,2016
+Italy,Serie A,Marco,Borriello ,2737,16,7.78,1.77,2016
+Italy,Serie A,(VIL),Carlos Bacca,2228,13,14.07,1.66,2016
+Italy,Serie A,(IMI),Gonzalo Higuain,3138,24,17.84,2.75,2016
+Italy,Serie A,(SAM),Keita Balde,2033,16,7.7,2.24,2016
+Italy,Serie A,(TOR),Andrea Belotti,3241,26,19.45,2.29,2016
+Germany,Bundesliga,(HKI),Fin Bartels,2315,8,6.34,1.19,2016
+Germany,Bundesliga,(BMG),Lars Stindl,2673,11,8.44,1.78,2016
+Germany,Bundesliga,(BAY),Serge Gnabry,2028,11,5.76,1.55,2016
+Germany,Bundesliga,Sandro,Wagner ,2695,11,12.2,1.23,2016
+Germany,Bundesliga,(HOF),Andrej Kramaric,2449,15,13.41,2.33,2016
+Germany,Bundesliga,(FCA),Florian Niederlechner,2477,11,10.69,2.15,2016
+Germany,Bundesliga,(BAY),Robert Lewandowski,2871,30,30.52,2.85,2016
+Germany,Bundesliga,(RBL),Emil Forsberg,2420,8,5.86,1.26,2016
+Germany,Bundesliga,(CHE),Timo Werner,2496,21,12.61,1.9,2016
+Germany,Bundesliga,(SCF),Nils Petersen,1351,10,9.24,2.32,2016
+Germany,Bundesliga,(SCH),Vedad Ibisevic,2772,12,12.84,1.58,2016
+Germany,Bundesliga,,Mario Gomez,2950,16,18.32,1.45,2016
+Germany,Bundesliga,(WOB),Maximilian Philipp,2000,9,6.11,1.62,2016
+Germany,Bundesliga,(MAI),Adam Szalai,833,8,3.95,1.71,2016
+Germany,Bundesliga,(ARS),Pierre-Emerick Aubameyang,2894,31,28.94,2.56,2016
+Germany,Bundesliga,(STP),Guido Burgstaller,1494,9,8.18,1.53,2016
+Germany,Bundesliga,(UNB),Max Kruse,2121,15,8.48,1.25,2016
+Germany,Bundesliga,(LAG),Chicharito ,1895,11,11.57,1.5,2016
+Germany,Bundesliga,(KOL),Anthony Modeste,3075,25,19.74,1.64,2016
+Germany,Bundesliga,(GRO),Arjen Robben,1882,13,4.95,2.62,2016
+England,Premier League,(INT),Alexis Sanchez,3385,24,19.24,1.38,2016
+England,Premier League,(INT),Romelu Lukaku,3448,25,18.15,1.46,2016
+England,Premier League,(TOT),Harry Kane,2636,29,18.87,2.09,2016
+England,Premier League,(LEI),Jamie Vardy,2938,13,9.28,0.84,2016
+England,Premier League,(CRY),Christian Benteke,3299,15,18.4,1.09,2016
+England,Premier League,(ROM),Pedro None,2250,10,5.68,0.72,2016
+England,Premier League,(RMA),Eden Hazard,3101,16,11.1,0.98,2016
+England,Premier League,(LIV),Roberto Firmino,3228,11,10.87,1.27,2016
+England,Premier League,(LIV),Sadio Mane,2347,13,9.14,0.97,2016
+England,Premier League,(BAR),Philippe Coutinho,2327,13,9.31,1.47,2016
+England,Premier League,(ATL),Diego Costa,3232,20,16.67,1.21,2016
+England,Premier League,(TOT),Dele Alli,3182,18,15.07,1.28,2016
+England,Premier League,(MNC),Sergio Aguero,2444,21,22.38,1.98,2016
+England,Premier League,(RAN),Jermain Defoe,3511,15,15.52,0.84,2016
+England,Premier League,(NAP),Fernando Llorente,2562,15,8.36,0.93,2016
+England,Premier League,(WHU),Michail Antonio,2493,11,9.71,0.95,2016
+England,Premier League,(ACM),Zlatan Ibrahimovic,2578,17,15.74,1.66,2016
+England,Premier League,(CHE),Olivier Giroud,1311,12,6.9,1.45,2016
+England,Premier League,(TOT),Son Heung-Min,2174,14,7.32,1.44,2016
+England,Premier League,(BOU),Joshua King,2856,16,10.82,0.96,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,(GRE),Diego Souza,2981,14,10.67,1.12,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,(SAP),Pablo ,2757,9,7.55,0.83,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,,Robinho ,2234,12,8.0,0.94,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,,Kempes ,1684,9,5.85,1.18,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,(MNC),Gabriel Jesus,2448,12,11.08,1.32,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,,Bruno Rangel ,2016,10,8.91,0.8,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,(CEA),Rogerio ,2051,9,6.69,1.3,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,(SAP),Vitor Bueno,2670,10,9.27,1.07,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,(SAN),Marinho ,2360,12,7.45,1.37,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,,Grafite ,2511,13,14.01,1.29,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,(HUR),Andres Chavez,1786,9,10.53,1.7,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,(BOT),Cicero Semedo,3322,9,9.79,0.77,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,,Sassa,1412,12,11.15,1.68,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLA),Giorgian de Arrascaeta,2423,9,7.65,0.94,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,(CAM),Keno ,3093,10,6.19,0.77,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLU),Fred ,2821,14,13.66,0.94,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,,Kleber Gladiador,2143,9,8.35,1.02,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,,Pottker ,2007,14,8.66,1.18,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,,Jonathan Copete,2147,10,8.14,0.75,2016
+Brazil,Campeonato Brasileiro SÃ©rie A,(CFC),Ricardo Oliveira,1834,11,8.49,1.29,2016
+Spain,La Liga,(GET),Angel Rodriguez,2390,13,11.82,1.23,2017
+Spain,La Liga,(BAR),Antoine Griezmann,2596,19,15.58,1.46,2017
+Spain,La Liga,(CEL),Iago Aspas,3053,22,19.92,1.34,2017
+Spain,La Liga,(TOT),Gareth Bale,1872,16,12.81,1.62,2017
+Spain,La Liga,,Rodrigo None,2770,16,15.45,1.3,2017
+Spain,La Liga,(ATL),Luis Suarez,3008,25,25.65,1.74,2017
+Spain,La Liga,(LEV),Sergio Leon,2071,11,11.12,1.24,2017
+Spain,La Liga,(BAR),Lionel Messi,3123,33,32.54,2.89,2017
+Spain,La Liga,(VAL),Maxi Gomez,3168,18,18.01,1.11,2017
+Spain,La Liga,(SOC),Mikel Oyarzabal,2864,12,9.35,1.06,2017
+Spain,La Liga,(SOC),Willian Josa,2869,15,13.89,0.96,2017
+Spain,La Liga,(TOR),Simone Zaza,2163,13,12.07,1.05,2017
+Spain,La Liga,(JUV),Cristiano Ronaldo,2375,26,29.0,3.04,2017
+Spain,La Liga,(SOC),Portu ,3081,11,10.7,0.77,2017
+Spain,La Liga,(VIL),Gerard Moreno,3555,16,17.96,1.26,2017
+Spain,La Liga,(GIR),Cristhian Stuani,2785,21,20.52,1.26,2017
+Spain,La Liga,(VIL),Carlos Bacca,2572,15,14.35,1.26,2017
+Spain,La Liga,(CEL),Santi Mina,1630,12,9.44,1.17,2017
+Spain,La Liga,(LEV),Morales ,3180,10,10.71,0.75,2017
+Spain,La Liga,(SEV),Munir ,2517,10,10.6,0.87,2017
+Italy,Serie A,(FIO),Jose Callejon,3359,10,10.25,0.91,2017
+Italy,Serie A,(LAZ),Sergej Milinkovic-Savic,3014,12,6.66,1.07,2017
+Italy,Serie A,(ATA),Duvan Zapata,2229,11,9.39,0.94,2017
+Italy,Serie A,(JUV),Paulo Dybala,2407,22,11.4,1.78,2017
+Italy,Serie A,(IMI),Gonzalo Higuain,2935,16,12.05,1.29,2017
+Italy,Serie A,(BAR),Mirco Antenucci,2735,11,8.06,0.9,2017
+Italy,Serie A,(SAM),Fabio Quagliarella,2864,19,17.79,1.53,2017
+Italy,Serie A,(LAZ),Luis Alberto,2797,11,6.77,0.85,2017
+Italy,Serie A,(PAR),Roberto Inglese,2914,12,9.82,1.21,2017
+Italy,Serie A,(TOR),Andrea Belotti,2854,10,11.72,0.93,2017
+Italy,Serie A,(ATA),Josip Ilicic,2115,11,8.24,1.62,2017
+Italy,Serie A,(CAG),Giovanni Simeone,3157,14,13.29,1.11,2017
+Italy,Serie A,(INT),Ivan Perisic,3491,11,9.19,1.03,2017
+Italy,Serie A,(ROM),Edin Dzeko,3177,16,16.39,1.67,2017
+Italy,Serie A,(CAG),Leonardo Pavoletti,2897,11,11.28,1.11,2017
+Italy,Serie A,(LAZ),Ciro Immobile,2799,29,19.15,1.8,2017
+Italy,Serie A,(NAP),Dries Mertens,3133,18,16.16,1.43,2017
+Italy,Serie A,(PSG),Mauro Icardi,3096,29,23.14,1.63,2017
+Italy,Serie A,(UDI),Kevin Lasagna,2244,12,11.34,1.31,2017
+Italy,Serie A,(BEN),Iago Falque,2950,12,9.01,0.71,2017
+Germany,Bundesliga,(BAY),Robert Lewandowski,2247,29,26.49,2.28,2017
+Germany,Bundesliga,(SVW),Niclas Fullkrug,2507,14,12.14,1.25,2017
+Germany,Bundesliga,(STP),Guido Burgstaller,2447,11,8.24,0.97,2017
+Germany,Bundesliga,(BOT),Salomon Kalou,2272,12,9.33,0.96,2017
+Germany,Bundesliga,(DOR),Thorgan Hazard,3062,10,12.89,1.02,2017
+Germany,Bundesliga,(NAN),Jean-Kevin Augustin,1330,9,6.16,1.29,2017
+Germany,Bundesliga,(BAY),Serge Gnabry,1555,10,5.57,1.41,2017
+Germany,Bundesliga,(HOF),Andrej Kramaric,2353,13,9.66,1.41,2017
+Germany,Bundesliga,(SCF),Nils Petersen,2362,15,11.93,0.97,2017
+Germany,Bundesliga,,Sandro Wagner ,1666,12,10.0,1.48,2017
+Germany,Bundesliga,(CHE),Timo Werner,2596,13,13.39,1.46,2017
+Germany,Bundesliga,(LEV),Leon Bailey,2317,9,7.56,1.11,2017
+Germany,Bundesliga,(VfB),Daniel Didavi,2312,9,3.89,0.78,2017
+Germany,Bundesliga,(FCA),Alfred Finnbogason,1879,12,11.08,1.26,2017
+Germany,Bundesliga,(SVW),Davie Selke,1974,10,8.1,1.06,2017
+Germany,Bundesliga,(SCH),Mark Uth,2279,14,9.84,0.88,2017
+Germany,Bundesliga,(FCA),Michael Gregoritsch,2626,13,10.78,1.3,2017
+Germany,Bundesliga,(DOR),Julian Brandt,2419,9,6.37,0.86,2017
+Germany,Bundesliga,(MON),Kevin Volland,2693,14,8.79,0.99,2017
+Germany,Bundesliga,(ARS),Pierre-Emerick Aubameyang,1480,13,16.36,1.73,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,(OPE),Roger ,1465,11,8.64,1.3,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,(CRU),Arthur Caike,2824,8,7.73,0.84,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,(BEN),Everton ,1224,8,9.53,2.33,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,(SAP),Hernanes ,1222,9,5.27,1.79,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,,Luiz Fernando,1792,9,6.04,1.17,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,(FOR),Wellington Paulista,2278,9,9.35,1.25,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLU),Fred ,1865,12,12.56,1.22,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,(SAP),Santiago Trellez,1694,10,7.67,1.12,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,(COR),Jo,2847,18,16.78,1.3,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,(SCR),Thiago Neves,2383,9,10.54,2.03,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLA),Bruno Henrique,2136,8,10.57,1.07,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,,Dudu ,1751,10,6.82,1.25,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLA),Diego ,2089,10,7.92,1.0,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,(GRE),Diego Souza,1953,11,11.72,1.46,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLU),Lucca ,2933,13,11.11,1.3,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,,Henrique Dourado,2472,19,14.83,1.42,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,,Andre,2931,16,14.81,1.1,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,,Edigar Junio ,1547,12,11.4,1.78,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,,Junior  Dutra,2022,9,10.43,1.17,2017
+Brazil,Campeonato Brasileiro SÃ©rie A,(GRE),Luiz Fernando,1769,9,5.96,0.86,2017
+Spain,La Liga,(RMA),Karim Benzema,3072,21,17.46,1.36,2018
+Spain,La Liga,(VAL),Maxi Gomez,3148,13,12.92,0.84,2018
+Spain,La Liga,(CEL),Iago Aspas,2369,20,12.47,1.28,2018
+Spain,La Liga,(GET),Jaime Mata,2569,14,12.44,0.92,2018
+Spain,La Liga,(BIL),Inaki Williams,3148,12,13.59,1.0,2018
+Spain,La Liga,(GIR),Cristhian Stuani,2897,19,16.47,1.28,2018
+Spain,La Liga,(OSA),Chimy Avila,2131,10,7.63,1.07,2018
+Spain,La Liga,(ESP),Raul de Tomas,2964,14,16.22,1.51,2018
+Spain,La Liga,(ATL),Luis Suarez,2954,21,24.88,1.87,2018
+Spain,La Liga,(LEV),Roger ,1999,13,14.1,1.43,2018
+Spain,La Liga,(SOC),Willian Jose,2471,12,11.7,1.0,2018
+Spain,La Liga,(PSG),Pablo Sarabia,2877,13,11.81,1.02,2018
+Spain,La Liga,(SOC),Mikel Oyarzabal,3300,13,11.12,0.81,2018
+Spain,La Liga,(BAR),Antoine Griezmann,3349,15,14.45,1.28,2018
+Spain,La Liga,(BET),Borja Iglesias,3246,17,16.4,1.11,2018
+Spain,La Liga,(BAR),Lionel Messi,2849,36,25.49,2.9,2018
+Spain,La Liga,(GRA),Jorge Molina,2819,14,11.28,0.78,2018
+Spain,La Liga,,Charles,1861,14,13.91,1.53,2018
+Spain,La Liga,(MON),Wissam Ben Yedder,2975,18,17.22,1.15,2018
+Spain,La Liga,(LEV),Morales ,3381,12,13.52,0.93,2018
+Italy,Serie A,(NAP),Arkadiusz Milik,2560,17,12.4,1.89,2018
+Italy,Serie A,(ATA),Duvan Zapata,3064,23,18.38,1.55,2018
+Italy,Serie A,(NAP),Lorenzo Insigne,2191,10,9.23,1.6,2018
+Italy,Serie A,(JUV),Cristiano Ronaldo,2857,21,21.65,2.26,2018
+Italy,Serie A,(LAZ),Ciro Immobile,3046,15,15.71,1.53,2018
+Italy,Serie A,(TOR),Andrea Belotti,3533,15,15.99,1.26,2018
+Italy,Serie A,(SAM),Fabio Quagliarella,3269,26,23.06,1.66,2018
+Italy,Serie A,Mario,Mandzukic None,2125,9,6.49,0.76,2018
+Italy,Serie A,(ROM),Edin Dzeko,2741,9,13.56,1.73,2018
+Italy,Serie A,(NAP),Andrea Petagna,3196,16,12.78,1.22,2018
+Italy,Serie A,(PAR),Roberto Inglese,2075,9,7.86,0.96,2018
+Italy,Serie A,(ATA),Josip Ilicic,2262,12,9.29,1.6,2018
+Italy,Serie A,(SAS),Francesco Caputo,3641,16,16.1,1.12,2018
+Italy,Serie A,(CAG),Leonardo Pavoletti,2903,16,11.0,1.08,2018
+Italy,Serie A,(SAS),Gregoire Defrel,2388,11,8.3,0.91,2018
+Italy,Serie A,(NAP),Dries Mertens,2416,16,10.43,1.53,2018
+Italy,Serie A,,Stephan El Shaarawy,2213,11,7.22,1.29,2018
+Italy,Serie A,(PAR),Gervinho ,2430,11,6.91,0.74,2018
+Italy,Serie A,(PSG),Mauro Icardi,2314,11,14.86,1.19,2018
+Italy,Serie A,(BSC),Krzysztof Piatek,3147,23,17.23,1.57,2018
+Germany,Bundesliga,(HOF),Andrej Kramaric,2527,16,19.42,1.62,2018
+Germany,Bundesliga,(BMG),Alassane Plea,2613,12,11.28,1.49,2018
+Germany,Bundesliga,(CHE),Kai Havertz,3033,16,11.17,1.32,2018
+Germany,Bundesliga,(RMA),Luka Jovic,2353,17,14.12,1.7,2018
+Germany,Bundesliga,(ACM),Ante Rebic,2075,11,9.17,1.28,2018
+Germany,Bundesliga,(DOR),Jadon Sancho,2602,13,6.85,0.77,2018
+Germany,Bundesliga,(FCA),Alfred Finnbogason,1385,10,10.21,1.23,2018
+Germany,Bundesliga,(KOL),Ondrej Duda,2661,11,5.88,0.71,2018
+Germany,Bundesliga,(VIL),Paco Alcacer,1312,18,9.39,1.96,2018
+Germany,Bundesliga,(CHE),Timo Werner,2582,16,15.49,1.43,2018
+Germany,Bundesliga,(SCH),Benito Raman,1781,10,6.19,1.39,2018
+Germany,Bundesliga,(MON),Kevin Volland,2945,14,12.4,1.39,2018
+Germany,Bundesliga,(WOB),Wout Weghorst,3061,17,16.11,1.06,2018
+Germany,Bundesliga,(HOF),Ishak Belfodil,1965,18,10.14,1.74,2018
+Germany,Bundesliga,(DOR),Marco Reus,2432,17,13.31,1.29,2018
+Germany,Bundesliga,(MAI),Jean-Philippe Mateta,2587,14,11.71,1.25,2018
+Germany,Bundesliga,(WHU),Sebastien Haller,2312,15,12.17,1.07,2018
+Germany,Bundesliga,(UNB),Max Kruse,2975,11,9.39,1.28,2018
+Germany,Bundesliga,(BAY),Robert Lewandowski,3090,22,29.27,1.57,2018
+Germany,Bundesliga,(RBL),Yussuf Poulsen,2556,15,10.76,1.0,2018
+France,France Ligue 11,(PSG),Angel Di Maria,2418,12,10.44,1.18,2018
+France,France Ligue 20,(BOR),Remi Oudin,2719,10,7.73,0.84,2018
+France,France Ligue 2,(ARS),Nicolas Pepe,3533,22,20.08,1.61,2018
+France,France Ligue 12,(CAE),Emiliano Sala,1434,12,6.19,1.19,2018
+France,France Ligue 9,(LIL),Jonathan Bamba,3190,13,7.39,0.83,2018
+France,France Ligue 15,(REN),M'Baye Niang,1911,11,7.44,1.24,2018
+France,France Ligue 6,(PSG),Neymar ,1517,15,12.62,1.57,2018
+France,France Ligue 3,(MNU),Edinson Cavani,1747,18,16.73,1.2,2018
+France,France Ligue 16,(ANG),Stephane Bahoken,2541,11,8.56,1.23,2018
+France,France Ligue 14,(SIV),Max Gradel,3446,11,14.51,1.16,2018
+France,France Ligue 4,(MAR),Florian Thauvin,2741,16,11.25,1.21,2018
+France,France Ligue 1,(PSG),Kylian Mbappe-Lottin,2488,33,31.17,2.67,2018
+France,France Ligue 10,(STE),Wahbi Khazri,3000,13,10.74,1.14,2018
+France,France Ligue 7,(GAL),Falcao ,2699,15,14.21,1.44,2018
+France,France Ligue 13,(MPE),Gaetan Laborde,3115,11,8.53,0.82,2018
+France,France Ligue 8,(MPE),Andy Delort,3263,14,13.05,1.05,2018
+France,France Ligue 5,(LYO),Moussa Dembele,2154,15,14.74,1.72,2018
+France,France Ligue 19,(LYO),Memphis Depay,2900,10,13.43,1.28,2018
+France,France Ligue 18,(STR),Lebo Mothiba,2154,10,7.03,0.84,2018
+France,France Ligue 17,(LOK),Francois Kamano,2698,10,9.09,1.16,2018
+England,Premier League,(CRY),Luka Milivojevic,3651,12,11.15,0.62,2018
+England,Premier League,(BOU),Joshua King,3143,12,13.56,0.7,2018
+England,Premier League,(MNU),Paul Pogba,3233,13,15.99,1.44,2018
+England,Premier League,(LIV),Mohamed Salah,3417,22,20.5,1.75,2018
+England,Premier League,(BUR),Ashley Barnes,2569,12,13.25,1.11,2018
+England,Premier League,(WAT),Glenn Murray,2684,13,11.58,0.74,2018
+England,Premier League,(EVE),Richarlison ,2822,14,11.88,0.94,2018
+England,Premier League,(LIV),Sadio Mane,3236,22,15.33,1.23,2018
+England,Premier League,(NEW),Callum Wilson,2714,14,14.57,1.02,2018
+England,Premier League,(TOT),Son Heung-Min,2152,12,7.02,1.28,2018
+England,Premier League,(TOT),Harry Kane,2580,17,15.48,1.69,2018
+England,Premier League,(MNC),Sergio Aguero,2566,21,19.45,1.59,2018
+England,Premier League,(RMA),Eden Hazard,3115,16,10.82,1.31,2018
+England,Premier League,(ARS),Pierre-Emerick Aubameyang,2905,22,21.71,1.28,2018
+England,Premier League,(EVE),Gylfi Sigurdsson,3302,13,11.12,0.95,2018
+England,Premier League,(MNC),Raheem Sterling,2930,17,14.19,1.23,2018
+England,Premier League,(LEI),Jamie Vardy,2886,18,17.62,1.25,2018
+England,Premier League,(LEI),Ayoze Perez,3099,12,7.83,0.83,2018
+England,Premier League,(ARS),Alexandre Lacazette,2670,14,11.52,1.0,2018
+England,Premier League,(WOL),Raul Jimenez,3285,13,15.91,0.95,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(LYO),Lucas Paqueta,2962,10,9.04,1.28,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(BEN),Everton ,2175,9,12.59,1.66,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(COR),Juan Cazares,2487,8,5.76,0.69,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(ALA),Deyverson ,1367,9,7.63,1.32,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(SAP),Pablo ,2808,12,10.94,0.98,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,,Leandro Damiao ,3236,10,13.28,0.79,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(VDG),Yago Pikachu,3192,10,11.09,1.1,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(RMA),Rodrygo ,2850,8,8.1,0.77,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(SJE),Andres Rios,2188,7,7.37,0.78,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,,Roger Guedes ,1081,9,6.14,1.76,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,,Leandro Pereira ,2575,11,10.03,1.22,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(GRE),Diego Souza,4177,11,11.43,0.48,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLA),Pedro ,1689,9,9.07,1.01,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(TIG),Nico Lupez,3931,11,8.69,0.8,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLU),Nene ,2636,8,7.49,0.72,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(CFC),Ricardo Oliveira,3231,13,16.67,1.21,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(BAH),Gilberto ,1623,8,7.0,1.0,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,Bruno,Henrique ,2595,9,4.37,0.55,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(PAL),Willian ,2153,10,10.2,1.28,2018
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLA),Gabriel Barbosa,3140,18,19.17,1.21,2018
+USA,MLS,(LAF),Diego Rossi,3277,17,12.07,1.45,2019
+USA,MLS,(ATA),Josef Martinez,3050,28,25.04,1.62,2019
+USA,MLS,(ACM),Zlatan Ibrahimovic,2998,31,22.72,2.12,2019
+USA,MLS,(SJE),Chris Wondolowski,2169,15,14.61,1.45,2019
+USA,MLS,(ORL),Nani ,2464,12,8.82,0.96,2019
+USA,MLS,(PHI),Kacper Przybylko,2420,15,12.23,1.45,2019
+USA,MLS,(MIN),Kei Kamara,2740,14,17.59,1.53,2019
+USA,MLS,(CHF),C.J. Sapong,2734,13,11.22,0.87,2019
+USA,MLS,(CCR),Gyasi Zardes,2657,13,15.1,0.93,2019
+USA,MLS,(NYC),Heber ,1742,15,11.37,1.42,2019
+USA,MLS,(HDY),Mauro Manotas,2717,13,14.01,1.01,2019
+USA,MLS,(COL),Brian Fernandez,1555,11,8.18,1.83,2019
+USA,MLS,(TOR),Alejandro Pozuelo,3104,14,9.8,1.16,2019
+USA,MLS,(SKC),Felipe Gutierrez,2905,12,9.48,0.92,2019
+USA,MLS,(SOU),Jordan Morris,2521,13,9.55,0.9,2019
+USA,MLS,(SOU),Raul Ruidiaz,2346,15,15.31,1.5,2019
+USA,MLS,(TOR),Jozy Altidore,1834,12,8.69,1.29,2019
+USA,MLS,(LAF),Carlos Vela,3128,36,25.35,2.28,2019
+USA,MLS,(VID),Nemanja Nikolic,2118,12,14.05,0.99,2019
+USA,MLS,(NYC FC),Alexandru Mitrita,2398,12,7.07,1.35,2019
+Spain,La Liga,(ATL),Luis Suarez,2126,16,14.32,1.88,2019
+Spain,La Liga,(RMA),Karim Benzema,3207,21,21.61,1.75,2019
+Spain,La Liga,(ALA),Joselu,2990,11,13.22,0.95,2019
+Spain,La Liga,(SEV),Carlos Fernandez,2428,10,10.48,0.74,2019
+Spain,La Liga,(OSA),Ante Budimir,2923,13,12.31,0.72,2019
+Spain,La Liga,(SOC),Mikel Oyarzabal,3247,10,8.89,0.64,2019
+Spain,La Liga,(SOC),Willian Jose,2171,11,13.03,0.83,2019
+Spain,La Liga,(VIL),Gerard Moreno,2831,18,16.09,1.14,2019
+Spain,La Liga,(ALA),Lucas Perez,2673,11,11.25,0.64,2019
+Spain,La Liga,(BET),Loren Moron,2222,10,9.12,0.77,2019
+Spain,La Liga,(BIL),Raul Garcla,3034,15,12.77,1.03,2019
+Spain,La Liga,(JUV),Morata ,2248,12,17.27,1.27,2019
+Spain,La Liga,(GET),Angel Rodriguez,1611,10,8.14,1.36,2019
+Spain,La Liga,(BAR),Lionel Messi,3067,25,21.63,2.11,2019
+Spain,La Liga,(RMA),Sergio Ramos,3100,11,11.09,0.52,2019
+Spain,La Liga,(SEV),Lucas Ocampos,2929,14,13.26,1.17,2019
+Spain,La Liga,Santi,Cazorla ,2513,11,8.73,0.91,2019
+Spain,La Liga,(LEV),Roger ,2436,11,11.54,0.94,2019
+Spain,La Liga,(GET),Jaime Mata,2923,11,12.0,0.75,2019
+Spain,La Liga,(CEL),Iago Aspas,3474,14,15.72,1.07,2019
+Portugal ,Primeira Liga,(LIS),Pote ,631,9,2.99,1.96,2019
+Portugal ,Primeira Liga,,Tiquinho Soares,1867,10,9.43,1.07,2019
+Portugal ,Primeira Liga,(FAR),Eduardo Mancha,396,2,0.96,0.48,2019
+Portugal ,Primeira Liga,(BRA),Paulinho ,2451,17,14.96,1.47,2019
+Portugal ,Primeira Liga,,Alex Telles,2732,11,8.05,0.59,2019
+Portugal ,Primeira Liga,(BRA),Bruno Viana,780,2,1.31,0.24,2019
+Portugal ,Primeira Liga,(AVE),Mehrdad Mohammadi,2495,8,7.35,0.72,2019
+Portugal ,Primeira Liga,(FAM),Carlos Valenzuela,575,2,1.03,0.5,2019
+Portugal ,Primeira Liga,(FAM),Ruben Lameiras,624,4,3.42,1.37,2019
+Portugal ,Primeira Liga,(POR),Moussa Marega,2471,12,7.28,1.27,2019
+Portugal ,Primeira Liga,(BEN),Gian-Luca Waldschmidt,605,4,3.57,0.94,2019
+Portugal ,Primeira Liga,(GIL),Samuel Lino,591,3,2.18,0.8,2019
+Portugal ,Primeira Liga,(VGU),Andre Andre,645,2,1.7,0.29,2019
+Portugal ,Primeira Liga,(POR),Mehdi Taremi,2537,18,16.82,1.12,2019
+Portugal ,Primeira Liga,(TOT),Carlos Vinicius,1928,18,12.38,1.33,2019
+Portugal ,Primeira Liga,(POR),Sergio Oliveira,642,4,2.09,1.18,2019
+Portugal ,Primeira Liga,(FER),Douglas Tanque,2054,11,7.57,1.11,2019
+Portugal ,Primeira Liga,,Fabio Abreu,2570,13,11.09,0.85,2019
+Portugal ,Primeira Liga,(NAC),Brayan Riascos,736,3,2.17,1.42,2019
+Portugal ,Primeira Liga,,Alex Telles ,280,2,2.36,1.7,2019
+Portugal ,Primeira Liga,,Fabio Martins,2633,12,9.15,1.3,2019
+Portugal ,Primeira Liga,(BEN),Haris  Seferovic,337,6,3.33,1.97,2019
+Portugal ,Primeira Liga,(FER),Douglas Tanque,644,2,2.51,1.33,2019
+Portugal ,Primeira Liga,(FEY),Joao Teixeira,1416,8,3.58,0.94,2019
+Portugal ,Primeira Liga,(MNU),Bruno Fernandes,1656,8,5.58,1.32,2019
+Portugal ,Primeira Liga,(BOA),Angel Gomes,530,3,1.12,0.54,2019
+Portugal ,Primeira Liga,(POR),Toni MartÃ­nez,2312,10,10.46,1.19,2019
+Portugal ,Primeira Liga,(BEN),Pizzi ,2981,18,15.69,1.24,2019
+Portugal ,Primeira Liga,(MIJ),Bozhidar Kraev,2399,8,4.55,0.75,2019
+Portugal ,Primeira Liga,,Sandro Lima,2747,10,10.12,1.07,2019
+Portugal ,Primeira Liga,(MAR),Rodrigo Pinho,1732,9,6.56,1.21,2019
+Portugal ,Primeira Liga,(MAR),Rodrigo Pinho,646,6,3.06,1.18,2019
+Portugal ,Primeira Liga,(SAN),Thiago Santana,714,6,3.31,1.6,2019
+Portugal ,Primeira Liga,(BEN),Everton ,622,2,1.05,1.07,2019
+Portugal ,Primeira Liga,(BAR),Trincao ,1749,8,4.6,1.03,2019
+Portugal ,Primeira Liga,(LIS),Andraz Sporar,356,2,3.41,1.87,2019
+Portugal ,Primeira Liga,(BRA),Ricardo Horta,2750,12,8.97,1.28,2019
+Portugal ,Primeira Liga,(VGU),Bruno Duarte,509,2,1.77,0.56,2019
+Portugal ,Primeira Liga,(LIS),Nuno Santos,567,3,1.55,0.84,2019
+Portugal ,Primeira Liga,(VGU),Bruno Duarte,1684,8,5.5,0.9,2019
+Italy,Serie A,(NAP),Arkadiusz Milik,1870,11,9.45,1.47,2019
+Italy,Serie A,(INT),Romelu Lukaku,3156,23,18.94,1.41,2019
+Italy,Serie A,(Sassuolo ),Francesco Caputo,3125,21,13.82,1.06,2019
+Italy,Serie A,(ROM),Edin Dzeko,3075,16,19.74,1.42,2019
+Italy,Serie A,(NAP),Andrea Petagna,3263,12,13.74,0.96,2019
+Italy,Serie A,(JUV),Cristiano Ronaldo,3127,31,27.32,2.4,2019
+Italy,Serie A,(SAS),Domenico Berardi,2654,14,10.9,1.65,2019
+Italy,Serie A,(CAG),Joao Pedro,3394,18,13.93,1.04,2019
+Italy,Serie A,(ATA),Josip Ilicic,1786,15,9.78,1.91,2019
+Italy,Serie A,,Andreas Cornelius,1637,12,6.38,1.16,2019
+Italy,Serie A,(CAG),Giovanni Simeone,3115,12,11.8,0.91,2019
+Italy,Serie A,(LAZ),Ciro Immobile,3371,36,26.61,2.0,2019
+Italy,Serie A,(LEC),Marco Mancosu,2627,14,15.21,1.12,2019
+Italy,Serie A,(ATA),Duvan Zapata,2143,18,15.11,1.64,2019
+Italy,Serie A,(INT),Lautaro Martrinez,2581,14,14.4,1.62,2019
+Italy,Serie A,(ATA),Luis Muriel,1370,18,12.4,2.84,2019
+Italy,Serie A,(SAM),Fabio Quagliarella,2413,11,13.72,1.38,2019
+Italy,Serie A,(BEN),Gianluca Lapadula,1906,11,9.43,1.2,2019
+Italy,Serie A,(ACM),Ante Rebic,1514,11,6.85,1.25,2019
+Italy,Serie A,(TOR),Andrea Belotti,3214,16,16.58,1.21,2019
+Germany,Bundesliga,(DOR),Jadon Sancho,2387,17,9.8,1.11,2019
+Germany,Bundesliga,(CHE),Timo Werner,2744,28,20.8,2.18,2019
+Germany,Bundesliga,(WOB),Wout Weghorst,2893,16,18.27,1.25,2019
+Germany,Bundesliga,(HOF),Andrej Kramaric,1502,12,9.33,1.45,2019
+Germany,Bundesliga,(DOR),Marco Reus,1561,11,8.54,1.46,2019
+Germany,Bundesliga,(CHE),Kai Havertz,2586,12,9.53,0.96,2019
+Germany,Bundesliga,(BMG),Marcus Thuram,2296,10,10.15,1.49,2019
+Germany,Bundesliga,(DUS),Rouwen Hennings,2592,15,10.91,0.99,2019
+Germany,Bundesliga,(BAY),Robert Lewandowski,2783,34,31.05,2.29,2019
+Germany,Bundesliga,(FRA),Andre Silva,1694,12,10.7,1.18,2019
+Germany,Bundesliga,(FCA),Florian Niederlechner,2846,13,13.18,1.34,2019
+Germany,Bundesliga,(DOR),Erling Haaland,1116,12,7.64,1.62,2019
+Germany,Bundesliga,(BSC),Jhon Cordoba,2108,13,8.88,1.13,2019
+Germany,Bundesliga,(MON),Kevin Volland,2159,10,11.59,1.41,2019
+Germany,Bundesliga,(SCF),Nils Petersen,2595,11,8.47,0.7,2019
+Germany,Bundesliga,(BMG),Lars Stindl,1518,9,7.19,0.94,2019
+Germany,Bundesliga,(MAI),Robin Quaison,2718,13,12.02,0.98,2019
+Germany,Bundesliga,(BAY),Serge Gnabry,2216,12,13.3,1.71,2019
+Germany,Bundesliga,(KOL),Sebastian Andersson,2813,12,13.62,1.25,2019
+Germany,Bundesliga,(BMG),Alassane Plea,2252,10,11.62,1.48,2019
+France,France Ligue 7,(PSG),Neymar ,1396,12,15.87,2.45,2019
+France,France Ligue 13,(MAR),Dimitri Payet,2057,9,5.85,1.2,2019
+France,France Ligue 6,(PSG),Mauro Icardi,1353,12,12.11,1.4,2019
+France,France Ligue 15,(LYO),Memphis Depay,1077,9,4.53,1.85,2019
+France,France Ligue 9,(NIC),Kasper Dolberg,1994,11,7.77,1.19,2019
+France,France Ligue 11,(REN),M'Baye Niang,2276,10,8.15,1.25,2019
+France,France Ligue 20,(STR),Adrien Thomasson,2168,7,5.25,0.79,2019
+France,France Ligue 12,(MPE),Andy Delort,2409,9,10.9,1.14,2019
+France,France Ligue 8,(MAR),Dario Benedetto,2214,11,8.86,1.16,2019
+France,France Ligue 2,(MON),Wissam Ben Yedder,2321,18,12.95,1.47,2019
+France,France Ligue 19,(STR),Ludovic Ajorque,2163,8,6.6,0.97,2019
+France,France Ligue 14,(LEI),Islam Slimani,1378,9,8.7,1.38,2019
+France,France Ligue 17,(REN),Adrien Hunou,1325,8,7.25,1.08,2019
+France,France Ligue 10,(STE),Denis Bouanga,2173,10,9.38,1.62,2019
+France,France Ligue 16,(REN),Sehrou Guirassy,2030,9,8.55,0.89,2019
+France,France Ligue 18,(PSG),Ãngel Di Maria,2106,8,9.98,1.08,2019
+France,France Ligue 3,(LYO),Moussa Dembele,2358,16,11.42,1.05,2019
+France,France Ligue 5,(STR),Habib Diallo,2344,12,9.13,1.38,2019
+France,France Ligue 1,(PSG),Kylian Mbappe-Lottin,1611,18,17.98,2.89,2019
+France,France Ligue 4,(NAP),Victor Osimhen,2434,13,14.86,1.37,2019
+England,Premier League,(EVE),Dominic Calvert-Lewin,2849,13,16.19,1.27,2019
+England,Premier League,(WOL),Raul Jimenez,3445,17,18.49,1.19,2019
+England,Premier League,(MNC),Kevin De Bruyne,2984,13,7.22,0.99,2019
+England,Premier League,(LEI),Jamie Vardy,3271,23,19.28,1.22,2019
+England,Premier League,(MNC),Raheem Sterling,2836,20,20.3,1.27,2019
+England,Premier League,(LIV),Sadio Mane,2933,18,14.51,1.17,2019
+England,Premier League,(BUR),Chris Wood,2616,14,17.07,1.05,2019
+England,Premier League,(MNU),Anthony Martial,2788,17,11.74,1.33,2019
+England,Premier League,(MNC),Riyad Mahrez,2130,11,7.62,1.38,2019
+England,Premier League,(TOT),Son Heung-Min,2663,11,9.25,1.36,2019
+England,Premier League,(MNU),Marcus Rashford,2826,17,19.93,1.48,2019
+England,Premier League,(LIV),Mohamed Salah,3045,19,20.51,1.84,2019
+England,Premier League,(MNC),Gabriel Jesus,2209,14,20.69,1.98,2019
+England,Premier League,(SOU),Danny Ings,3009,22,16.79,1.17,2019
+England,Premier League,(ARS),Pierre-Emerick Aubameyang,3392,22,16.07,1.18,2019
+England,Premier League,(TOT),Harry Kane,2801,18,12.97,1.25,2019
+England,Premier League,(EVE),Richarlison  ,3289,13,10.73,0.92,2019
+England,Premier League,(NOR),Teemu Pukki,3087,11,11.37,1.08,2019
+England,Premier League,(CHE),Tammy Abraham,2380,15,19.29,1.4,2019
+England,Premier League,(MNC),Sergio Aguero,1566,16,15.5,1.64,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,,Dudu ,3313,9,9.42,1.09,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(INT),Thiago Galhardo,2901,12,14.35,1.05,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(INT),Paolo Guerrero,2193,10,10.85,1.43,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(GRE),Pepe,1836,8,8.7,0.83,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,Bruno,Henrique ,3149,10,4.97,0.66,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLA),Giorgian de Arrascaeta,1929,12,9.34,0.94,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(SAN),Marinho ,1917,8,6.66,1.29,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(BEN),Everton ,2498,11,9.2,1.22,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(BAH),Gilberto ,2524,14,15.94,1.17,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLA),Michael ,3180,10,9.37,0.96,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(SAN),Carlos Sanchez,2648,12,11.99,1.04,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,,Everaldo ,3233,14,13.27,1.15,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(RBB),Artur ,3049,7,5.78,0.59,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLA),Gabriel Barbosa,2716,25,24.59,2.17,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(FOR),Wellington Paulista,2650,13,13.67,1.04,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLA),Bruno Henrique,2822,21,21.09,1.55,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(chongqing dangdai lifan f.c),Marcelo  Cirino,2062,9,9.33,0.78,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(SAN),Yeferson Soteldo,2883,9,8.8,0.86,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(CAM),Eduardo Sasha,3181,14,14.06,1.08,2019
+Brazil,Campeonato Brasileiro SÃ©rie A,(GOI),Rafael Moura,1661,9,8.22,0.8,2019
+ Netherlands,Eredivisie,(AJA),Antony None,575,4,1.63,1.32,2019
+ Netherlands,Eredivisie,(AJA),Quincy Promes,574,4,2.9,1.66,2019
+ Netherlands,Eredivisie,(AJA),Dusan Tadic,719,7,4.24,1.72,2019
+ Netherlands,Eredivisie,(VIT),Armando Broja,569,5,2.52,1.0,2019
+ Netherlands,Eredivisie,(FEY),Steven Berghuis,896,9,8.77,2.23,2019
+ Netherlands,Eredivisie,(EMM),Michael de Leeuw,723,5,2.89,0.92,2019
+ Netherlands,Eredivisie,(VIT),Lois Openda,775,5,2.94,1.1,2019
+ Netherlands,Eredivisie,(TWE),Danilo Nome,827,9,7.05,1.84,2019
+ Netherlands,Eredivisie,(SPR),Lennart Thy,768,6,4.37,1.36,2019
+ Netherlands,Eredivisie,(PSV),Donyell Malen,725,6,6.11,2.23,2019
+ Netherlands,Eredivisie,(PSV),Noni Madueke,524,4,2.87,1.27,2019
+ Netherlands,Eredivisie,(AJA),Davy Klaassen,490,5,4.02,1.55,2019
+ Netherlands,Eredivisie,(VIT),Oussama Tannane,680,4,2.65,1.26,2019
+ Netherlands,Eredivisie,(TWE),Vaclav Cerny,824,4,1.39,1.38,2019
+ Netherlands,Eredivisie,(WIL),Vangelis Pavlidis,927,4,2.83,1.54,2019
+ Netherlands,Eredivisie,(HEE),Henk Veerman,916,8,4.44,1.45,2019
+ Netherlands,Eredivisie,(SPR),Abdou Harroui,834,4,1.93,1.48,2019
+ Netherlands,Eredivisie,(HER),Rai Vloet,853,7,4.49,1.0,2019
+ Netherlands,Eredivisie,(AJA),Lassina Traore,506,7,4.21,1.5,2019
+ Netherlands,Eredivisie,(VVV),Georgios Giakoumakis,911,9,7.19,1.46,2019
+USA,MLS,(TOR),Alex Pozuelo,2247,9,8.28,1.06,2020
+USA,MLS,(MIN),Kevin Molino,1430,11,6.32,1.33,2020
+USA,MLS,(RSL),Damir Kreilach,1872,8,6.11,0.96,2020
+USA,MLS,(LAF),Bradley Wright-Phillips,1190,8,5.89,1.2,2020
+USA,MLS,(LAF),Diego Rossi,1816,14,11.85,1.78,2020
+USA,MLS,(SOU),Nicolas Lodeiro,2014,8,6.36,0.9,2020
+USA,MLS,(SOU),Raul Ruidiaz,1626,14,8.56,1.4,2020
+USA,MLS,(ORL),Daryl Dike,1482,8,3.74,0.83,2020
+USA,MLS,(CCR),Gyasi Zardes,2034,14,11.99,1.17,2020
+USA,MLS,(LAG),Cristian Pavon,2106,10,5.99,1.13,2020
+USA,MLS,(ORL),Chris Mueller,1726,10,6.0,1.1,2020
+USA,MLS,(MON),Romell Quioto,1676,9,5.82,1.3,2020
+USA,MLS,(SOU),Jordan Morris,1927,11,8.32,0.94,2020
+USA,MLS,(PHI),Kacper Przybylko,2216,8,8.63,1.16,2020
+USA,MLS,(NER),Gustavo Bou,1701,8,6.8,1.56,2020
+USA,MLS,(CHF),Robert Beric,2063,13,9.99,1.29,2020
+USA,MLS,(TOR),Ayo Akinola,1195,9,7.3,1.51,2020
+USA,MLS,(POR),Jeremy Ebobisse,1189,8,3.63,1.2,2020
+USA,MLS,(POR),Diego Valeri,1864,8,5.3,0.87,2020
+USA,MLS,(SJE),Chris Wondolowski,1509,8,7.31,1.26,2020
+Spain,La Liga,(SEV),Youssef   En-Nesyri,465,4,3.33,0.82,2020
+Spain,La Liga,(SOC),Portu ,691,4,1.53,0.55,2020
+Spain,La Liga,(RMA),Karim Benzema,741,4,4.91,1.54,2020
+Spain,La Liga,(VAL),Carlos Soler,599,4,3.34,0.79,2020
+Spain,La Liga,(BET),Cristian Tello,629,4,1.92,1.21,2020
+Spain,La Liga,(SOC),Mikel Oyarzabal,736,7,6.82,2.07,2020
+Spain,La Liga,(EIB),Esteban Burgos,589,3,2.85,0.65,2020
+Spain,La Liga,(ALA),Lucas Perez,637,3,4.36,0.89,2020
+Spain,La Liga,(BAR),Lionel Messi,824,4,5.46,2.19,2020
+Spain,La Liga,(ATL),Joao Felix,641,5,3.85,0.89,2020
+Spain,La Liga,(ATL),Luis Suarez,387,5,3.3,1.96,2020
+Spain,La Liga,(VIL),Paco Alcacer,693,5,5.11,1.1,2020
+Spain,La Liga,(LEV),Morales ,758,4,2.71,1.0,2020
+Spain,La Liga,(RMA),Federico Valverde,566,3,1.13,0.84,2020
+Spain,La Liga,(BAR),Antoine Griezmann,634,3,3.67,1.2,2020
+Spain,La Liga,(CEL),Iago Aspas,1056,5,4.89,1.08,2020
+Spain,La Liga,(EIB),Kike GarcIa,790,3,2.83,0.96,2020
+Spain,La Liga,(GET),Angel Rodriguez,501,4,2.06,1.33,2020
+Spain,La Liga,(BAR),Ansu Fati,451,4,1.8,1.47,2020
+Spain,La Liga,(VIL),Gerard Moreno,822,6,6.4,1.27,2020
+Italy,Serie A,(BOL),Roberto Soriano,849,5,2.41,0.78,2020
+Italy,Serie A,(SAS),Francesco Caputo,567,5,3.52,1.51,2020
+Italy,Serie A,(CAG),Joao Pedro,831,6,3.41,1.14,2020
+Italy,Serie A,(ATA),Alejandro Gomez,643,4,2.23,1.63,2020
+Italy,Serie A,(TOR),Andrea Belotti,754,7,3.49,1.39,2020
+Italy,Serie A,(FIO),Gaetano Castrovilli,755,4,1.43,0.88,2020
+Italy,Serie A,(CAG),Giovanni Simeone,664,5,3.29,0.72,2020
+Italy,Serie A,(SAS),Domenico Berardi,766,4,2.02,1.36,2020
+Italy,Serie A,(ROM),Henrikh Mkhitaryan,825,5,5.82,1.61,2020
+Italy,Serie A,(ROM),Jordan Veretout,769,4,3.48,0.86,2020
+Italy,Serie A,(PAR),Gervinho ,669,4,1.97,0.71,2020
+Italy,Serie A,(INT),Lautaro MartInez,656,5,2.35,1.59,2020
+Italy,Serie A,(ATA),Luis Muriel,264,4,2.78,2.52,2020
+Italy,Serie A,(JUV),Cristiano Ronaldo,397,8,5.31,3.11,2020
+Italy,Serie A,(INT),Romelu Lukaku,580,7,7.27,1.64,2020
+Italy,Serie A,(NAP),Dries Mertens,616,4,2.46,1.7,2020
+Italy,Serie A,(LAZ),Ciro Immobile,571,5,3.73,1.33,2020
+Italy,Serie A,(SAM),Fabio Quagliarella,694,5,4.46,1.23,2020
+Italy,Serie A,(ACM),Zlatan Ibrahimovic,557,10,7.92,2.73,2020
+Italy,Serie A,(NAP),Hirving Lozano,568,4,2.93,1.84,2020
+Germany,Bundesliga,(LEV),Lucas Alario,561,7,3.07,1.86,2020
+Germany,Bundesliga,(FRA),Bas Dost,732,3,3.24,1.04,2020
+Germany,Bundesliga,(BAY),Serge Gnabry,626,4,1.58,1.37,2020
+Germany,Bundesliga,(WOB),Wout Weghorst,778,6,5.57,1.71,2020
+Germany,Bundesliga,(RBL),Dani Olmo,834,4,2.28,0.91,2020
+Germany,Bundesliga,(KOL),Ellyes Skhiri,709,3,1.87,0.4,2020
+Germany,Bundesliga,(BAY),Thomas Muller,822,4,3.2,0.58,2020
+Germany,Bundesliga,(UNB),Max Kruse,669,6,4.44,1.42,2020
+Germany,Bundesliga,(FRA),Andre Silva,802,7,7.43,1.9,2020
+Germany,Bundesliga,(FCA),Andre Hahn,547,3,1.44,1.04,2020
+Germany,Bundesliga,(MAI),Jean-Philippe Mateta,723,7,6.01,1.58,2020
+Germany,Bundesliga,(HOF),Andrej Kramaric,481,7,4.61,2.77,2020
+Germany,Bundesliga,(SVW),Niclas Fullkrug,293,4,3.02,2.27,2020
+Germany,Bundesliga,(BMG),Lars Stindl,567,4,3.52,1.51,2020
+Germany,Bundesliga,(FCA),Daniel Caligiuri,841,3,0.8,0.56,2020
+Germany,Bundesliga,(DOR),Erling Haaland,683,10,6.76,1.95,2020
+Germany,Bundesliga,(BSC),Jhon Cordoba,493,3,2.23,0.96,2020
+Germany,Bundesliga,(SCF),Nils Petersen,608,4,2.11,1.09,2020
+Germany,Bundesliga,(BSC),Matheus Cunha,857,6,3.43,1.66,2020
+Germany,Bundesliga,(BAY),Robert Lewandowski,672,12,7.78,2.4,2020
+France,France Ligue 18,(NAN),Ludovic Blas,990,4,1.88,0.67,2020
+France,France Ligue 12,(ANG),Stephane Bahoken,644,5,3.53,2.07,2020
+France,France Ligue 9,(LYO),Karl Toko,822,5,5.88,1.39,2020
+France,France Ligue 10,(MON),Kevin Volland,709,5,3.43,1.47,2020
+France,France Ligue 3,(MPE),Andy Delort,902,6,4.18,1.47,2020
+France,France Ligue 4,(LIL),Burak Yilmaz,903,6,4.56,1.79,2020
+France,France Ligue 5,(MET),Ibrahima Niane,482,6,3.45,1.77,2020
+France,France Ligue 2,(REI),Boulaye Dia,772,8,5.28,1.48,2020
+France,France Ligue 20,(PSG),Moise Kean,454,4,3.2,1.05,2020
+France,France Ligue 15,(LEN),Ignatius Ganago,452,4,3.33,1.47,2020
+France,France Ligue 8,(BRE),Irvin Cardona,627,5,2.71,1.21,2020
+France,France Ligue 6,(MON),Wissam Ben,879,6,5.74,0.86,2020
+France,France Ligue 14,(MAR),Florian Thauvin,835,4,2.99,0.91,2020
+France,France Ligue 13,(NIC),Amine Gouiri,903,4,3.33,1.05,2020
+France,France Ligue 16,(LIL),Jonathan Bamba,1061,4,1.68,0.81,2020
+France,France Ligue 17,(STR),Ludovic Ajorque,1008,4,3.61,0.75,2020
+France,France Ligue 1,(PSG),Kylian Mbappe-Lottin,610,9,6.81,3.11,2020
+France,France Ligue 19,(DIJ),Mama Balde,669,4,4.01,1.42,2020
+France,France Ligue 11,(LYO),Memphis Depay,903,5,4.75,1.05,2020
+France,France Ligue 7,(LEN),Gael Kakuta,786,5,4.14,0.73,2020
+England,Premier League,(SOU),James Ward-Prowse,960,4,0.71,0.69,2020
+England,Premier League,(MNU),Bruno Fernandes,809,7,5.45,1.64,2020
+England,Premier League,(EVE),Dominic Calvert-Lewin,940,10,7.12,1.82,2020
+England,Premier League,(CHE),Timo Werner,876,4,3.69,1.08,2020
+England,Premier League,(NEW),Callum Wilson,835,7,6.5,0.91,2020
+England,Premier League,(LIV),Diogo Jota,530,5,2.51,1.97,2020
+England,Premier League,(CRY),Wilfried Zaha,779,5,4.35,0.85,2020
+England,Premier League,(AVL),Jack Grealish,872,5,2.85,0.98,2020
+England,Premier League,(WOL),Raul Jimenez,872,4,3.3,1.09,2020
+England,Premier League,(WHU),Jarrod Bowen,845,4,2.94,0.56,2020
+England,Premier League,(LEE),Patrick Bamford,898,7,7.28,1.8,2020
+England,Premier League,(LIV),Mohamed Salah,831,8,6.12,1.71,2020
+England,Premier League,(LEI),Jamie Vardy,780,8,8.7,1.83,2020
+England,Premier League,(TOT),Harry Kane,956,7,6.64,1.49,2020
+England,Premier League,,Danny Ings ,662,5,2.58,1.29,2020
+England,Premier League,(BHA),Neal Maupay,786,4,6.54,1.33,2020
+England,Premier League,(AVL),Ollie Watkins,872,6,6.43,0.98,2020
+England,Premier League,(LIV),Sadio Mane,785,4,4.88,1.57,2020
+England,Premier League,(MNC),Riyad Mahrez,612,4,1.93,1.55,2020
+England,Premier League,(TOT),Son Heung-Min,861,9,3.9,1.32,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(SAP),Luciano ,1588,11,6.02,1.02,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(CEA),Vinicius ,1348,7,5.25,1.69,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(SAN),Marinho ,1662,13,7.52,1.49,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(PAL),Raphael Veiga,914,6,3.37,1.14,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(PAL),Luiz Adriano,1235,7,6.24,1.0,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(CEA),Cleber ,1336,5,6.75,0.92,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(VDG),German Cano,1733,10,10.03,1.21,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(GRE),Pepe,1397,7,5.44,0.88,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(SAP),Brenner None,1063,6,7.5,1.25,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(BOT),Matheus Babi,1709,6,5.94,0.78,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLU),Nene ,1434,7,4.38,0.86,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLA),Bruno Henrique,1412,5,8.92,1.21,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(INT),Thiago Galhardo,1605,15,12.5,1.6,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(CAM),Keno ,1829,10,11.36,1.61,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(RBB),Alerrandro ,861,5,6.07,1.21,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(FOR),Wellington Paulista,1208,6,5.34,0.94,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(RBB),Claudinho ,1657,10,4.19,1.09,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(CFC),Robson,1937,6,8.56,0.83,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(FLA),Pedro ,1207,10,10.42,1.97,2020
+Brazil,Campeonato Brasileiro SÃ©rie A,(CAP),Renato Kayzer,1639,7,7.59,1.22,2020
+ Netherlands,Eredivisie,(MNU),Donny van de Beek,2023,8,4.9,0.75,2020
+ Netherlands,Eredivisie,(AZA),Teun Koopmeiners,2336,11,9.34,0.73,2020
+ Netherlands,Eredivisie,Aitor,Cantalapiedra ,1933,7,9.16,1.13,2020
+ Netherlands,Eredivisie,(FEY),Bryan Linssen,2256,14,8.31,1.64,2020
+ Netherlands,Eredivisie,Tim,Matavz ,2157,12,9.08,1.23,2020
+ Netherlands,Eredivisie,(SEV),Oussama Idrissi,2047,13,7.11,1.58,2020
+ Netherlands,Eredivisie,(AJA),Dusan Tadic,2287,11,11.31,1.08,2020
+ Netherlands,Eredivisie,(FEY),Steven Berghuis,2226,15,13.36,1.88,2020
+ Netherlands,Eredivisie,(CSK),Chidera Ejuke,2147,9,6.55,1.11,2020
+ Netherlands,Eredivisie,(AZA),Myron Boadu,2099,14,13.26,1.36,2020
+ Netherlands,Eredivisie,(AJA),Klaas-Jan Huntelaar,938,9,6.91,1.72,2020
+ Netherlands,Eredivisie,(WIL),Vangelis Pavlidis,2265,11,12.64,1.3,2020
+ Netherlands,Eredivisie,(EMM),Michael de Leeuw,2383,9,8.28,0.92,2020
+ Netherlands,Eredivisie,(PSV),Donyell Malen,1245,11,8.91,2.44,2020
+ Netherlands,Eredivisie,(RZA),Haris Vuckic,2194,11,6.0,0.74,2020
+ Netherlands,Eredivisie,(UTR),Gyrano Kerk,2155,10,7.49,0.79,2020
+ Netherlands,Eredivisie,(AJA),Quincy Promes,1573,12,9.77,1.81,2020
+ Netherlands,Eredivisie,(PSV),Denzel Dumfries,2363,7,5.72,0.56,2020
+ Netherlands,Eredivisie,,Cyriel Dessers ,2461,15,14.51,1.66,2020
+ Netherlands,Eredivisie,(PSV),Cody Gakpo,1557,7,4.43,0.92,2020
